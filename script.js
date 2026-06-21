@@ -5,7 +5,7 @@ function add(a, b) {
 function subtract(a, b) {
   return a - b;
 }
-
+// This function takes two numbers as input and returns their product.
 function multiply(a, b) {
   return a * b;
 }
